@@ -7,10 +7,11 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f0f0f0;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
         }
         header {
             background-color: #4CAF50;
@@ -32,14 +33,14 @@
 </head>
 <body>
     <header>
-        <h1>Bem-vindo à Minha Primeira Página HTML</h1>
+        <h1>Minha Primeira Página HTML</h1>
     </header>
     <main>
-        <p>Este é o meu primeiro site, criado como parte de um exercício para aprender HTML e hospedagem no GitHub.</p>
-        <p>Espero que você goste!</p>
+        <p>Olá! Este é o meu primeiro site criado em HTML.</p>
+        <p>Estou aprendendo a criar e hospedar páginas na web com GitHub Pages.</p>
     </main>
     <footer>
-        <p>Desenvolvido por [Seu Nome] - 2024</p>
+        <p>Desenvolvido por Heitor Caprioli - 2024</p>
     </footer>
 </body>
 </html>
