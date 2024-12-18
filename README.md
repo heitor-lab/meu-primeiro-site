@@ -37,7 +37,7 @@
     </header>
     <main>
         <p>Olá! Este é o meu primeiro site criado em HTML.</p>
-        <p>Estou aprendendo a criar e hospedar páginas na web com GitHub Pages.</p>
+        <p>Estou aprendendo a criar e hospedar páginas na web no GitHub Pages.</p>
     </main>
     <footer>
         <p>Desenvolvido por Heitor Caprioli - 2024</p>
